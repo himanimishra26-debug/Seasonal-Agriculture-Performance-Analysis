@@ -33,3 +33,4 @@ The dataset includes information on farming practices, environmental conditions 
 - `Seasonal_Agriculture_Performance_Analysis.ipynb` — Full analysis notebook
 - `seasonal_agriculture_performance_dataset.csv` — Dataset used
 - `Major Project_Seasonal Agriculture Performance Analysis..pdf` — Problem statement document
+- `Major_Project_Seasonal_Agriculture_Performance_ppt.pptx` — Final project presentation
